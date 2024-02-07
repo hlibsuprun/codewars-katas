@@ -1,0 +1,21 @@
+{
+  "license": "MIT",
+  "name": "codewars-katas",
+  "description": "Codewars katas journey",
+  "author": {
+    "name": "Hlib Suprun",
+    "email": "hlibsuprun@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hlibsuprun/codewars-katas"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest -o --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5"
+  }
+}
